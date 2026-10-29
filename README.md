@@ -1,2 +1,1 @@
-# ssad-site
-ssad.my
+# ssad.my
