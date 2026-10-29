@@ -15,7 +15,6 @@
 - [TelegramObhod](https://github.com/alchemistpillage/TelegramObhod): Актуальная версия с улучшенной поддержкой Telegram. Надежнее, быстрее, стабильнее
 - [YoutubeObhod](https://github.com/alchemistpillage/YoutubeObhod): Обновлённая версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, надежнее, быстрее
 - [zapretdiscord](https://github.com/alchemistpillage/zapretdiscord): Обновлённая версия для Discord в текущих условиях. Стабильнее, надежнее, быстрее
-- [zapret-discord](https://github.com/amptasafeguard/zapret-discord): zapret-discord
 - [Discord-Obhod](https://github.com/aquaraikageportal/Discord-Obhod): Обновлённая версия с поддержкой работы Discord в текущих условиях. Быстрее, надежнее, стабильнее
 - [ObhodTelegram](https://github.com/aquaraikageportal/ObhodTelegram): Новая версия для Telegram в текущих условиях. Стабильнее, быстрее, надежнее
 - [Youtube-Obhod](https://github.com/aquaraikageportal/Youtube-Obhod): Обновлённая версия с поддержкой работы YouTube в текущих условиях. Быстрее, стабильнее, надежнее
