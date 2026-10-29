@@ -159,6 +159,7 @@
 - [zaprEt-TELEgraM](https://github.com/cacherispanner/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zapRETDiscORd](https://github.com/cacherispanner/zapRETDiscORd): zapRETDiscORd
 - [discordzapret](https://github.com/canaryvalley/discordzapret): discordzapret
+- [zapretdiscord](https://github.com/canaryvalley/zapretdiscord): zapretdiscord
 - [discOrDZApreT](https://github.com/capitaljouninnail/discOrDZApreT): discOrDZApreT
 - [telegramzapret](https://github.com/capitaljouninnail/telegramzapret): telegramzapret
 - [zapretdiscord](https://github.com/capitaljouninnail/zapretdiscord): zapretdiscord
