@@ -193,6 +193,11 @@
 - [telegramzapret](https://github.com/chartcontrollerlimit/telegramzapret): Актуальная версия для Telegram в текущих условиях. Быстрее, надежнее, стабильнее
 - [youtube-fix](https://github.com/chartcontrollerlimit/youtube-fix): Актуальная версия с поддержкой работы YouTube. Стабильнее, быстрее, надежнее
 - [zapret-youtube](https://github.com/chartcontrollerlimit/zapret-youtube): Актуальная версия с улучшенной поддержкой YouTube. Стабильнее, надежнее, быстрее
+- [disCORdobHOD](https://github.com/chieftainborder/disCORdobHOD): Обновлённая версия с поддержкой голоса Discord в текущих условиях. Быстрее, надежнее, стабильнее
+- [discOrDZApreT](https://github.com/chieftainborder/discOrDZApreT): Новая версия для Discord в текущих условиях. Быстрее, стабильнее, надежнее
+- [teleGRAmobhOD](https://github.com/chieftainborder/teleGRAmobhOD): Новая версия с поддержкой обхода Telegram. Быстрее, надежнее, стабильнее
+- [yoUTUbeoBhod](https://github.com/chieftainborder/yoUTUbeoBhod): Актуальная версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapRETDiscORd](https://github.com/chieftainborder/zapRETDiscORd): Обновлённая версия с улучшенной поддержкой Discord. Стабильнее, надежнее, быстрее
 - [discord-unban](https://github.com/cloudsaboteur/discord-unban): Обновлённая версия с поддержкой голоса Discord в текущих условиях. Надежнее, стабильнее, быстрее
 - [discord-zapret](https://github.com/cloudsaboteur/discord-zapret): Новая версия с поддержкой Discord в текущих условиях. Стабильнее, надежнее, быстрее
 - [discordzapret](https://github.com/cloudsaboteur/discordzapret): Актуальная версия с поддержкой работы Discord в текущих условиях. Стабильнее, быстрее, надежнее
@@ -943,7 +948,6 @@
 - [DiscordObhod](https://github.com/summitantnote/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/summitantnote/discORdobHodDPI): discORdobHodDPI
 - [teleGram-OBHOd](https://github.com/summitantnote/teleGram-OBHOd): teleGram-OBHOd
-- [discord-zapret](https://github.com/surgechacock/discord-zapret): discord-zapret
 - [disCOrD-ZapREt](https://github.com/surgeflerestore/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/surgeflerestore/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zapret-telegram](https://github.com/surgeflerestore/zapret-telegram): zapret-telegram
@@ -969,6 +973,7 @@
 - [zaPRETtElegrAm](https://github.com/teacherweave25/zaPRETtElegrAm): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Быстрее, стабильнее, надежнее
 - [discord-zapret](https://github.com/tempesttaxi49/discord-zapret): discord-zapret
 - [zaprET-DiSCOrd](https://github.com/tempesttaxi49/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [disCOrD-ZapREt](https://github.com/tempestwalrus/disCOrD-ZapREt): disCOrD-ZapREt
 - [disCOrD-ZapREt](https://github.com/tensorshograb/disCOrD-ZapREt): disCOrD-ZapREt
 - [telegramzapret](https://github.com/tensorshograb/telegramzapret): telegramzapret
 - [zaprET-DiSCOrd](https://github.com/tensorshograb/zaprET-DiSCOrd): zaprET-DiSCOrd
