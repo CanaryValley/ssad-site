@@ -181,6 +181,7 @@
 - [discOrDZApreT](https://github.com/celestialdoorcoil/discOrDZApreT): discOrDZApreT
 - [yOUTubeZaprET](https://github.com/celestialdoorcoil/yOUTubeZaprET): yOUTubeZaprET
 - [zapRETDiscORd](https://github.com/celestialdoorcoil/zapRETDiscORd): zapRETDiscORd
+- [YoutubeObhod](https://github.com/centaurdruid17/YoutubeObhod): Обновлённая версия для YouTube в текущих условиях. Стабильнее, надежнее, быстрее
 - [discord-zapret](https://github.com/chainrecover/discord-zapret): discord-zapret
 - [zapret-discord](https://github.com/chainrecover/zapret-discord): zapret-discord
 - [zaprettelegram](https://github.com/chainrecover/zaprettelegram): zaprettelegram
@@ -818,7 +819,6 @@
 - [zapretdiscord](https://github.com/retroservant34/zapretdiscord): zapretdiscord
 - [discord-zapret](https://github.com/retroundefend/discord-zapret): discord-zapret
 - [zapret-discord](https://github.com/retroundefend/zapret-discord): zapret-discord
-- [discOrDZApreT](https://github.com/rhythmlawmakerpalace/discOrDZApreT): discOrDZApreT
 - [yOUTubeZaprET](https://github.com/ringconquerorheart/yOUTubeZaprET): yOUTubeZaprET
 - [zapret-discord](https://github.com/ringconquerorheart/zapret-discord): zapret-discord
 - [zapRETDiscORd](https://github.com/ringconquerorheart/zapRETDiscORd): zapRETDiscORd
@@ -943,6 +943,7 @@
 - [DiscordObhod](https://github.com/summitantnote/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/summitantnote/discORdobHodDPI): discORdobHodDPI
 - [teleGram-OBHOd](https://github.com/summitantnote/teleGram-OBHOd): teleGram-OBHOd
+- [discord-zapret](https://github.com/surgechacock/discord-zapret): discord-zapret
 - [disCOrD-ZapREt](https://github.com/surgeflerestore/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/surgeflerestore/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zapret-telegram](https://github.com/surgeflerestore/zapret-telegram): zapret-telegram
