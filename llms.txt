@@ -168,9 +168,16 @@
 - [discord-zapret](https://github.com/capturedream/discord-zapret): discord-zapret
 - [zaprET-DiSCOrd](https://github.com/capturedream/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zaprettelegram](https://github.com/capturedream/zaprettelegram): zaprettelegram
+- [discordzapret](https://github.com/cascadesupportjerk/discordzapret): discordzapret
+- [TelegramObhod](https://github.com/cascadesupportjerk/TelegramObhod): TelegramObhod
 - [discord-zapret](https://github.com/cashieradvance/discord-zapret): discord-zapret
 - [zapret-discord](https://github.com/cashieradvance/zapret-discord): zapret-discord
 - [zaprettelegram](https://github.com/cashieradvance/zaprettelegram): zaprettelegram
+- [discord-unban](https://github.com/cavernheroninverter/discord-unban): Обновлённая версия с поддержкой обхода Discord в текущих условиях. Надежнее, стабильнее, быстрее
+- [discord-zapret](https://github.com/cavernheroninverter/discord-zapret): Новая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [ObhodDiscord](https://github.com/cavernheroninverter/ObhodDiscord): Новая версия с поддержкой работы Discord. Надежнее, стабильнее, быстрее
+- [ObhodYoutube](https://github.com/cavernheroninverter/ObhodYoutube): Новая версия с улучшенной поддержкой YouTube. Стабильнее, надежнее, быстрее
+- [zapret-discord](https://github.com/cavernheroninverter/zapret-discord): Обновлённая версия под Discord в текущих условиях. Надежнее, быстрее, стабильнее
 - [discOrDZApreT](https://github.com/celestialdoorcoil/discOrDZApreT): discOrDZApreT
 - [yOUTubeZaprET](https://github.com/celestialdoorcoil/yOUTubeZaprET): yOUTubeZaprET
 - [zapRETDiscORd](https://github.com/celestialdoorcoil/zapRETDiscORd): zapRETDiscORd
@@ -323,6 +330,7 @@
 - [yOUTubeZaprET](https://github.com/echoillusionistcurl/yOUTubeZaprET): yOUTubeZaprET
 - [zapret-discord](https://github.com/echoillusionistcurl/zapret-discord): zapret-discord
 - [zapRETDiscORd](https://github.com/echoillusionistcurl/zapRETDiscORd): zapRETDiscORd
+- [discord-zapret](https://github.com/energygunnerrattle/discord-zapret): discord-zapret
 - [disCOrD-ZapREt](https://github.com/eternaladvocatesing/disCOrD-ZapREt): disCOrD-ZapREt
 - [discordzapret](https://github.com/eternaladvocatesing/discordzapret): discordzapret
 - [zapRET-YOutUBE](https://github.com/eternaladvocatesing/zapRET-YOutUBE): zapRET-YOutUBE
