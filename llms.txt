@@ -330,7 +330,6 @@
 - [yOUTubeZaprET](https://github.com/echoillusionistcurl/yOUTubeZaprET): yOUTubeZaprET
 - [zapret-discord](https://github.com/echoillusionistcurl/zapret-discord): zapret-discord
 - [zapRETDiscORd](https://github.com/echoillusionistcurl/zapRETDiscORd): zapRETDiscORd
-- [discord-zapret](https://github.com/energygunnerrattle/discord-zapret): discord-zapret
 - [disCOrD-ZapREt](https://github.com/eternaladvocatesing/disCOrD-ZapREt): disCOrD-ZapREt
 - [discordzapret](https://github.com/eternaladvocatesing/discordzapret): discordzapret
 - [zapRET-YOutUBE](https://github.com/eternaladvocatesing/zapRET-YOutUBE): zapRET-YOutUBE
@@ -1079,6 +1078,7 @@
 - [DiscordObhod](https://github.com/violetnyapruner/DiscordObhod): DiscordObhod
 - [telegramzapret](https://github.com/violetnyapruner/telegramzapret): telegramzapret
 - [zapretdiscord](https://github.com/violetnyapruner/zapretdiscord): zapretdiscord
+- [disCOrD-ZapREt](https://github.com/volcanoflamingo/disCOrD-ZapREt): disCOrD-ZapREt
 - [discord-unban-zapret](https://github.com/watchtradershape/discord-unban-zapret): Обновлённая версия с поддержкой Discord в текущих условиях. Надежнее, быстрее, стабильнее
 - [telegram-unban-zapret](https://github.com/watchtradershape/telegram-unban-zapret): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, быстрее, надежнее
 - [youtube-unban-zapret](https://github.com/watchtradershape/youtube-unban-zapret): Актуальная версия для YouTube в текущих условиях. Быстрее, стабильнее, надежнее
