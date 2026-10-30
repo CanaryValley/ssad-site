@@ -974,6 +974,7 @@
 - [discord-zapret](https://github.com/tempesttaxi49/discord-zapret): discord-zapret
 - [zaprET-DiSCOrd](https://github.com/tempesttaxi49/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [disCOrD-ZapREt](https://github.com/tempestwalrus/disCOrD-ZapREt): disCOrD-ZapREt
+- [discordzapret](https://github.com/tempestwalrus/discordzapret): discordzapret
 - [disCOrD-ZapREt](https://github.com/tensorshograb/disCOrD-ZapREt): disCOrD-ZapREt
 - [telegramzapret](https://github.com/tensorshograb/telegramzapret): telegramzapret
 - [zaprET-DiSCOrd](https://github.com/tensorshograb/zaprET-DiSCOrd): zaprET-DiSCOrd
