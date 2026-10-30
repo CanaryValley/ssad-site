@@ -325,6 +325,7 @@
 - [zapRETDiscORd](https://github.com/echoillusionistcurl/zapRETDiscORd): zapRETDiscORd
 - [disCOrD-ZapREt](https://github.com/eternaladvocatesing/disCOrD-ZapREt): disCOrD-ZapREt
 - [discordzapret](https://github.com/eternaladvocatesing/discordzapret): discordzapret
+- [zapRET-YOutUBE](https://github.com/eternaladvocatesing/zapRET-YOutUBE): zapRET-YOutUBE
 - [discordzapret](https://github.com/exadreagitate/discordzapret): discordzapret
 - [youtubezapret](https://github.com/exadreagitate/youtubezapret): youtubezapret
 - [zapretdiscord](https://github.com/exadreagitate/zapretdiscord): zapretdiscord
