@@ -1080,6 +1080,7 @@
 - [zapretdiscord](https://github.com/violetnyapruner/zapretdiscord): zapretdiscord
 - [disCOrD-ZapREt](https://github.com/volcanoflamingo/disCOrD-ZapREt): disCOrD-ZapREt
 - [discordzapret](https://github.com/volcanoflamingo/discordzapret): discordzapret
+- [zaPRETtElegrAm](https://github.com/volcanoflamingo/zaPRETtElegrAm): zaPRETtElegrAm
 - [discord-unban-zapret](https://github.com/watchtradershape/discord-unban-zapret): Обновлённая версия с поддержкой Discord в текущих условиях. Надежнее, быстрее, стабильнее
 - [telegram-unban-zapret](https://github.com/watchtradershape/telegram-unban-zapret): Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, быстрее, надежнее
 - [youtube-unban-zapret](https://github.com/watchtradershape/youtube-unban-zapret): Актуальная версия для YouTube в текущих условиях. Быстрее, стабильнее, надежнее
