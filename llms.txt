@@ -322,6 +322,7 @@
 - [yOUTubeZaprET](https://github.com/echoillusionistcurl/yOUTubeZaprET): yOUTubeZaprET
 - [zapret-discord](https://github.com/echoillusionistcurl/zapret-discord): zapret-discord
 - [zapRETDiscORd](https://github.com/echoillusionistcurl/zapRETDiscORd): zapRETDiscORd
+- [discord-zapret](https://github.com/echowainwrightphase/discord-zapret): discord-zapret
 - [discordzapret](https://github.com/exadreagitate/discordzapret): discordzapret
 - [youtubezapret](https://github.com/exadreagitate/youtubezapret): youtubezapret
 - [zapretdiscord](https://github.com/exadreagitate/zapretdiscord): zapretdiscord
