@@ -301,6 +301,7 @@
 - [obhoDDiscOrd](https://github.com/diameterrigazebo/obhoDDiscOrd): obhoDDiscOrd
 - [youtubezapret](https://github.com/diameterrigazebo/youtubezapret): youtubezapret
 - [zaprET-DiSCOrd](https://github.com/diameterrigazebo/zaprET-DiSCOrd): zaprET-DiSCOrd
+- [discordzapret](https://github.com/diametersorcererspin/discordzapret): discordzapret
 - [telegramzapret](https://github.com/diamondcolonelcode/telegramzapret): Актуальная версия с улучшенной поддержкой Telegram. Быстрее, надежнее, стабильнее
 - [youtube-fix](https://github.com/diamondcolonelcode/youtube-fix): Актуальная версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, быстрее, надежнее
 - [youtube-unban](https://github.com/diamondcolonelcode/youtube-unban): Обновлённая версия с поддержкой работы YouTube в текущих условиях. Быстрее, стабильнее, надежнее
