@@ -201,6 +201,11 @@
 - [teleGRAmobhOD](https://github.com/chieftainborder/teleGRAmobhOD): Новая версия с поддержкой обхода Telegram. Быстрее, надежнее, стабильнее
 - [yoUTUbeoBhod](https://github.com/chieftainborder/yoUTUbeoBhod): Актуальная версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, надежнее, быстрее
 - [zapRETDiscORd](https://github.com/chieftainborder/zapRETDiscORd): Обновлённая версия с улучшенной поддержкой Discord. Стабильнее, надежнее, быстрее
+- [disCORdobHOD](https://github.com/chipravenmill/disCORdobHOD): Обновлённая версия с поддержкой голоса Discord в текущих условиях. Быстрее, надежнее, стабильнее
+- [discOrDZApreT](https://github.com/chipravenmill/discOrDZApreT): Новая версия для Discord в текущих условиях. Быстрее, стабильнее, надежнее
+- [teleGRAmobhOD](https://github.com/chipravenmill/teleGRAmobhOD): Новая версия с поддержкой обхода Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [yoUTUbeoBhod](https://github.com/chipravenmill/yoUTUbeoBhod): Актуальная версия с поддержкой YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapRETDiscORd](https://github.com/chipravenmill/zapRETDiscORd): Обновлённая версия с улучшенной поддержкой Discord. Стабильнее, надежнее, быстрее
 - [discord-unban](https://github.com/cloudsaboteur/discord-unban): Обновлённая версия с поддержкой голоса Discord в текущих условиях. Надежнее, стабильнее, быстрее
 - [discord-zapret](https://github.com/cloudsaboteur/discord-zapret): Новая версия с поддержкой Discord в текущих условиях. Стабильнее, надежнее, быстрее
 - [discordzapret](https://github.com/cloudsaboteur/discordzapret): Актуальная версия с поддержкой работы Discord в текущих условиях. Стабильнее, быстрее, надежнее
@@ -301,8 +306,6 @@
 - [obhoDDiscOrd](https://github.com/diameterrigazebo/obhoDDiscOrd): obhoDDiscOrd
 - [youtubezapret](https://github.com/diameterrigazebo/youtubezapret): youtubezapret
 - [zaprET-DiSCOrd](https://github.com/diameterrigazebo/zaprET-DiSCOrd): zaprET-DiSCOrd
-- [discordzapret](https://github.com/diametersorcererspin/discordzapret): discordzapret
-- [zapretdiscord](https://github.com/diametersorcererspin/zapretdiscord): zapretdiscord
 - [telegramzapret](https://github.com/diamondcolonelcode/telegramzapret): Актуальная версия с улучшенной поддержкой Telegram. Быстрее, надежнее, стабильнее
 - [youtube-fix](https://github.com/diamondcolonelcode/youtube-fix): Актуальная версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, быстрее, надежнее
 - [youtube-unban](https://github.com/diamondcolonelcode/youtube-unban): Обновлённая версия с поддержкой работы YouTube в текущих условиях. Быстрее, стабильнее, надежнее
