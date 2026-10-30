@@ -158,6 +158,7 @@
 - [zapRETDiscORd](https://github.com/bufferrhymecutter/zapRETDiscORd): zapRETDiscORd
 - [Discord-Obhod](https://github.com/cablebailiff/Discord-Obhod): Discord-Obhod
 - [discOrDZApreT](https://github.com/cablebailiff/discOrDZApreT): discOrDZApreT
+- [youtubezapret](https://github.com/cablebailiff/youtubezapret): youtubezapret
 - [zapret-discord](https://github.com/cacherispanner/zapret-discord): zapret-discord
 - [zaprEt-TELEgraM](https://github.com/cacherispanner/zaprEt-TELEgraM): zaprEt-TELEgraM
 - [zapRETDiscORd](https://github.com/cacherispanner/zapRETDiscORd): zapRETDiscORd
