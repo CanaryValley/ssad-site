@@ -77,6 +77,7 @@
 - [ObhodDiscord](https://github.com/azurebyreflect/ObhodDiscord): Новая версия с поддержкой голоса Discord в текущих условиях. Надежнее, стабильнее, быстрее
 - [ObhodYoutube](https://github.com/azurebyreflect/ObhodYoutube): Новая версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
 - [zapret-discord](https://github.com/azurebyreflect/zapret-discord): Обновлённая версия с поддержкой работы Discord. Надежнее, быстрее, стабильнее
+- [discOrDZApreT](https://github.com/badgekroblade/discOrDZApreT): discOrDZApreT
 - [telEGrAm-UnbaN](https://github.com/badgeoceanflex/telEGrAm-UnbaN): Обновлённая версия для Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/badgeoceanflex/zaPRet-DIScORD-yOUTUbe): Обновлённая версия с поддержкой Discord, YouTube и Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 - [DiscordObhod](https://github.com/bailiffrectifier/DiscordObhod): DiscordObhod
