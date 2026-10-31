@@ -15,6 +15,7 @@
 - [TelegramObhod](https://github.com/alchemistpillage/TelegramObhod): Актуальная версия с улучшенной поддержкой Telegram. Надежнее, быстрее, стабильнее
 - [YoutubeObhod](https://github.com/alchemistpillage/YoutubeObhod): Обновлённая версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, надежнее, быстрее
 - [zapretdiscord](https://github.com/alchemistpillage/zapretdiscord): Обновлённая версия для Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapret-discord](https://github.com/ampspiderfence/zapret-discord): zapret-discord
 - [zapret-discord](https://github.com/amptasafeguard/zapret-discord): zapret-discord
 - [Discord-Obhod](https://github.com/aquaraikageportal/Discord-Obhod): Обновлённая версия с поддержкой работы Discord в текущих условиях. Быстрее, надежнее, стабильнее
 - [ObhodTelegram](https://github.com/aquaraikageportal/ObhodTelegram): Новая версия для Telegram в текущих условиях. Стабильнее, быстрее, надежнее
@@ -248,6 +249,11 @@
 - [Youtube-Obhod](https://github.com/companyairnurse/Youtube-Obhod): Обновлённая версия с поддержкой работы YouTube в текущих условиях. Быстрее, стабильнее, надежнее
 - [youtube-unban](https://github.com/companyairnurse/youtube-unban): Обновлённая версия с поддержкой работы YouTube. Быстрее, стабильнее, надежнее
 - [youtubezapret](https://github.com/companyairnurse/youtubezapret): Актуальная версия с поддержкой работы YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+- [Obhod-Discord](https://github.com/companyshoutmatch/Obhod-Discord): Обновлённая версия с поддержкой обхода Discord в текущих условиях. Быстрее, надежнее, стабильнее
+- [Telegram-Obhod](https://github.com/companyshoutmatch/Telegram-Obhod): Обновлённая версия для Telegram в текущих условиях. Надежнее, быстрее, стабильнее
+- [telegramzapret](https://github.com/companyshoutmatch/telegramzapret): Актуальная версия для Telegram в текущих условиях. Быстрее, надежнее, стабильнее
+- [youtube-fix](https://github.com/companyshoutmatch/youtube-fix): Актуальная версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, быстрее, надежнее
+- [zapret-youtube](https://github.com/companyshoutmatch/zapret-youtube): Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
 - [disCOrD-ZapREt](https://github.com/comptrollermultiply/disCOrD-ZapREt): disCOrD-ZapREt
 - [discordzapret](https://github.com/comptrollermultiply/discordzapret): discordzapret
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/comptrollermultiply/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
@@ -777,7 +783,6 @@
 - [discordzapret](https://github.com/piercranecure54/discordzapret): discordzapret
 - [obhoDDiscOrd](https://github.com/piercranecure54/obhoDDiscOrd): obhoDDiscOrd
 - [zaPRETtElegrAm](https://github.com/piercranecure54/zaPRETtElegrAm): zaPRETtElegrAm
-- [discOrDZApreT](https://github.com/pierkomodoyank/discOrDZApreT): discOrDZApreT
 - [discord-youtube-zapret](https://github.com/plasmapeasantviaduct/discord-youtube-zapret): Обновлённая версия с поддержкой Discord и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
 - [telegram-zapret](https://github.com/plasmapeasantviaduct/telegram-zapret): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 - [youtube-zapret](https://github.com/plasmapeasantviaduct/youtube-zapret): Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, быстрее, надежнее
