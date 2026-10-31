@@ -221,6 +221,7 @@
 - [zapretdiscord](https://github.com/cloudsaboteur/zapretdiscord): Обновлённая версия для Discord в текущих условиях. Стабильнее, надежнее, быстрее
 - [disCOrD-ZapREt](https://github.com/coalsniperscheme/disCOrD-ZapREt): disCOrD-ZapREt
 - [discordzapret](https://github.com/coalsniperscheme/discordzapret): discordzapret
+- [zaPRETtElegrAm](https://github.com/coalsniperscheme/zaPRETtElegrAm): zaPRETtElegrAm
 - [discord-zapret](https://github.com/coastquailpleat/discord-zapret): discord-zapret
 - [zapret-discord](https://github.com/coastquailpleat/zapret-discord): zapret-discord
 - [tELegrAMZapReT](https://github.com/coatlakekink/tELegrAMZapReT): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Надежнее, быстрее, стабильнее
