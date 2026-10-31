@@ -219,6 +219,7 @@
 - [discordzapret](https://github.com/cloudsaboteur/discordzapret): Актуальная версия с поддержкой работы Discord в текущих условиях. Стабильнее, быстрее, надежнее
 - [zapret-discord](https://github.com/cloudsaboteur/zapret-discord): Обновлённая версия с поддержкой работы Discord в текущих условиях. Надежнее, быстрее, стабильнее
 - [zapretdiscord](https://github.com/cloudsaboteur/zapretdiscord): Обновлённая версия для Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [disCOrD-ZapREt](https://github.com/coalsniperscheme/disCOrD-ZapREt): disCOrD-ZapREt
 - [discord-zapret](https://github.com/coastquailpleat/discord-zapret): discord-zapret
 - [zapret-discord](https://github.com/coastquailpleat/zapret-discord): zapret-discord
 - [tELegrAMZapReT](https://github.com/coatlakekink/tELegrAMZapReT): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Надежнее, быстрее, стабильнее
@@ -232,6 +233,11 @@
 - [discORdobHodDPI](https://github.com/colossusduke80/discORdobHodDPI): discORdobHodDPI
 - [tELegrAMZapReT](https://github.com/colossusduke80/tELegrAMZapReT): tELegrAMZapReT
 - [zapRETDiscORd](https://github.com/colossusduke80/zapRETDiscORd): zapRETDiscORd
+- [DiscordObhod](https://github.com/commanderroller/DiscordObhod): Новая версия с поддержкой обхода Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/commanderroller/discordzapret): Актуальная версия с поддержкой работы Discord. Стабильнее, быстрее, надежнее
+- [ObhodYoutube](https://github.com/commanderroller/ObhodYoutube): Новая версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [TelegramObhod](https://github.com/commanderroller/TelegramObhod): Актуальная версия с поддержкой работы Telegram в текущих условиях. Надежнее, быстрее, стабильнее
+- [YoutubeObhod](https://github.com/commanderroller/YoutubeObhod): Обновлённая версия с улучшенной поддержкой YouTube. Стабильнее, надежнее, быстрее
 - [disCOrD-ZapREt](https://github.com/commercialdominate/disCOrD-ZapREt): disCOrD-ZapREt
 - [zaprET-DiSCOrd](https://github.com/commercialdominate/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zaPRet-DIScORD-yOUTUbe](https://github.com/commercialdominate/zaPRet-DIScORD-yOUTUbe): zaPRet-DIScORD-yOUTUbe
@@ -731,7 +737,6 @@
 - [discord-unban](https://github.com/outsidesharkstride/discord-unban): discord-unban
 - [discord-youtube-fix](https://github.com/outsidesharkstride/discord-youtube-fix): discord-youtube-fix
 - [zaprET-DiSCOrd](https://github.com/outsidesharkstride/zaprET-DiSCOrd): zaprET-DiSCOrd
-- [discord-zapret](https://github.com/overlapcarpenter/discord-zapret): discord-zapret
 - [DiscordObhod](https://github.com/paceindustrialfence/DiscordObhod): DiscordObhod
 - [discordzapret](https://github.com/paceindustrialfence/discordzapret): discordzapret
 - [YoutubeObhod](https://github.com/paceindustrialfence/YoutubeObhod): YoutubeObhod
