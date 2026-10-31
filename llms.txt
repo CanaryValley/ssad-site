@@ -542,6 +542,7 @@
 - [zapret-telegram](https://github.com/jadewithinidolize/zapret-telegram): zapret-telegram
 - [zapretdiscord](https://github.com/jadewithinidolize/zapretdiscord): zapretdiscord
 - [disCOrD-ZapREt](https://github.com/keychoseparator/disCOrD-ZapREt): disCOrD-ZapREt
+- [discordzapret](https://github.com/keychoseparator/discordzapret): discordzapret
 - [discordzapret](https://github.com/labelforrecognize/discordzapret): discordzapret
 - [youtubezapret](https://github.com/labelforrecognize/youtubezapret): youtubezapret
 - [zapretdiscord](https://github.com/labelforrecognize/zapretdiscord): zapretdiscord
