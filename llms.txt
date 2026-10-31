@@ -206,6 +206,11 @@
 - [teleGRAmobhOD](https://github.com/chipravenmill/teleGRAmobhOD): Новая версия с поддержкой обхода Telegram в текущих условиях. Быстрее, надежнее, стабильнее
 - [yoUTUbeoBhod](https://github.com/chipravenmill/yoUTUbeoBhod): Актуальная версия с поддержкой YouTube в текущих условиях. Стабильнее, надежнее, быстрее
 - [zapRETDiscORd](https://github.com/chipravenmill/zapRETDiscORd): Обновлённая версия с улучшенной поддержкой Discord. Стабильнее, надежнее, быстрее
+- [DiscordObhod](https://github.com/citygracklesanctify/DiscordObhod): Новая версия с поддержкой Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [discordzapret](https://github.com/citygracklesanctify/discordzapret): Актуальная версия с поддержкой работы Discord в текущих условиях. Стабильнее, быстрее, надежнее
+- [TelegramObhod](https://github.com/citygracklesanctify/TelegramObhod): Актуальная версия с поддержкой Telegram в текущих условиях. Надежнее, быстрее, стабильнее
+- [YoutubeObhod](https://github.com/citygracklesanctify/YoutubeObhod): Обновлённая версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+- [zapretdiscord](https://github.com/citygracklesanctify/zapretdiscord): Обновлённая версия для Discord в текущих условиях. Стабильнее, надежнее, быстрее
 - [discord-unban](https://github.com/cloudsaboteur/discord-unban): Обновлённая версия с поддержкой голоса Discord в текущих условиях. Надежнее, стабильнее, быстрее
 - [discord-zapret](https://github.com/cloudsaboteur/discord-zapret): Новая версия с поддержкой Discord в текущих условиях. Стабильнее, надежнее, быстрее
 - [discordzapret](https://github.com/cloudsaboteur/discordzapret): Актуальная версия с поддержкой работы Discord в текущих условиях. Стабильнее, быстрее, надежнее
@@ -462,6 +467,7 @@
 - [DiscordObhod](https://github.com/griffinaidarn/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/griffinaidarn/discORdobHodDPI): discORdobHodDPI
 - [zaprEt-TELEgraM](https://github.com/griffinaidarn/zaprEt-TELEgraM): zaprEt-TELEgraM
+- [discord-zapret](https://github.com/grindungrade/discord-zapret): discord-zapret
 - [discord-zapret](https://github.com/gripstallion/discord-zapret): discord-zapret
 - [zaprET-DiSCOrd](https://github.com/gripstallion/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zapret-youtube](https://github.com/gripstallion/zapret-youtube): zapret-youtube
