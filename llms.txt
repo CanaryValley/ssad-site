@@ -543,6 +543,7 @@
 - [zapretdiscord](https://github.com/jadewithinidolize/zapretdiscord): zapretdiscord
 - [disCOrD-ZapREt](https://github.com/keychoseparator/disCOrD-ZapREt): disCOrD-ZapREt
 - [discordzapret](https://github.com/keychoseparator/discordzapret): discordzapret
+- [zapRET-YOutUBE](https://github.com/keychoseparator/zapRET-YOutUBE): zapRET-YOutUBE
 - [discordzapret](https://github.com/labelforrecognize/discordzapret): discordzapret
 - [youtubezapret](https://github.com/labelforrecognize/youtubezapret): youtubezapret
 - [zapretdiscord](https://github.com/labelforrecognize/zapretdiscord): zapretdiscord
