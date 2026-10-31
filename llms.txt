@@ -211,6 +211,7 @@
 - [TelegramObhod](https://github.com/citygracklesanctify/TelegramObhod): Актуальная версия с поддержкой Telegram в текущих условиях. Надежнее, быстрее, стабильнее
 - [YoutubeObhod](https://github.com/citygracklesanctify/YoutubeObhod): Обновлённая версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, надежнее, быстрее
 - [zapretdiscord](https://github.com/citygracklesanctify/zapretdiscord): Обновлённая версия для Discord в текущих условиях. Стабильнее, надежнее, быстрее
+- [youtUbEObhodDPI](https://github.com/clamptellerbridge/youtUbEObhodDPI): youtUbEObhodDPI
 - [discord-unban](https://github.com/cloudsaboteur/discord-unban): Обновлённая версия с поддержкой голоса Discord в текущих условиях. Надежнее, стабильнее, быстрее
 - [discord-zapret](https://github.com/cloudsaboteur/discord-zapret): Новая версия с поддержкой Discord в текущих условиях. Стабильнее, надежнее, быстрее
 - [discordzapret](https://github.com/cloudsaboteur/discordzapret): Актуальная версия с поддержкой работы Discord в текущих условиях. Стабильнее, быстрее, надежнее
@@ -467,7 +468,6 @@
 - [DiscordObhod](https://github.com/griffinaidarn/DiscordObhod): DiscordObhod
 - [discORdobHodDPI](https://github.com/griffinaidarn/discORdobHodDPI): discORdobHodDPI
 - [zaprEt-TELEgraM](https://github.com/griffinaidarn/zaprEt-TELEgraM): zaprEt-TELEgraM
-- [discord-zapret](https://github.com/grindungrade/discord-zapret): discord-zapret
 - [discord-zapret](https://github.com/gripstallion/discord-zapret): discord-zapret
 - [zaprET-DiSCOrd](https://github.com/gripstallion/zaprET-DiSCOrd): zaprET-DiSCOrd
 - [zapret-youtube](https://github.com/gripstallion/zapret-youtube): zapret-youtube
@@ -541,6 +541,7 @@
 - [discOrDZApreT](https://github.com/jadewithinidolize/discOrDZApreT): discOrDZApreT
 - [zapret-telegram](https://github.com/jadewithinidolize/zapret-telegram): zapret-telegram
 - [zapretdiscord](https://github.com/jadewithinidolize/zapretdiscord): zapretdiscord
+- [disCOrD-ZapREt](https://github.com/keychoseparator/disCOrD-ZapREt): disCOrD-ZapREt
 - [discordzapret](https://github.com/labelforrecognize/discordzapret): discordzapret
 - [youtubezapret](https://github.com/labelforrecognize/youtubezapret): youtubezapret
 - [zapretdiscord](https://github.com/labelforrecognize/zapretdiscord): zapretdiscord
