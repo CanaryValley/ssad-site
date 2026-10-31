@@ -777,6 +777,7 @@
 - [discordzapret](https://github.com/piercranecure54/discordzapret): discordzapret
 - [obhoDDiscOrd](https://github.com/piercranecure54/obhoDDiscOrd): obhoDDiscOrd
 - [zaPRETtElegrAm](https://github.com/piercranecure54/zaPRETtElegrAm): zaPRETtElegrAm
+- [discOrDZApreT](https://github.com/pierkomodoyank/discOrDZApreT): discOrDZApreT
 - [discord-youtube-zapret](https://github.com/plasmapeasantviaduct/discord-youtube-zapret): Обновлённая версия с поддержкой Discord и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
 - [telegram-zapret](https://github.com/plasmapeasantviaduct/telegram-zapret): Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 - [youtube-zapret](https://github.com/plasmapeasantviaduct/youtube-zapret): Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, быстрее, надежнее
